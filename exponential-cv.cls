@@ -8,8 +8,8 @@
 \ProcessOptions\relax
 \LoadClass{article}
 
-\setlength\paperheight {290mm}
-\setlength\paperwidth  {215mm}
+\setlength\paperheight {297mm}
+\setlength\paperwidth  {230mm}
 
 \ProcessOptions
 
