@@ -128,9 +128,9 @@ BoldItalicFont=texgyreheros-bolditalic.otf
     \color{%
       \ifcase\value{colorCounter}%
         red\or%
-        green\or%
         blue\or%
         orange\or%
+        green\or%
         purple\or%
         brown\else%
         headercolor\fi%
