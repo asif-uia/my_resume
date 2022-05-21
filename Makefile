@@ -6,8 +6,8 @@ default: pdf clean
 ## Create PDF
 pdf:
 	xelatex cv
-	biber cv
-	xelatex cv
+	# biber cv
+	# xelatex cv
 
 ## Cleanup build files
 clean:
