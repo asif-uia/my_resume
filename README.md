@@ -1,6 +1,6 @@
-## Custom Latex template for generating CV
+# Custom Latex template for generating CV
 
-# Usage
+## Usage
 
 Run `make pdf` to create the PDF (`cv.pdf`). See `make help` for an overview of available targets.
 
@@ -11,7 +11,7 @@ This custom template needs the following dependencies:
 -   TikZ (header)
 -   textpos (aside)
 
-# Options
+## Options
 
 -   `print`: renders in black and white, and reverts the header to dark on light
 -   `nocolors`: no colors in section headers (but still use dark header)
