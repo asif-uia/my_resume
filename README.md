@@ -1,6 +1,6 @@
-# Custom-made latex template for generating your Resume
+# Latex template for generating your resume
 
-## Customized in top of Friggeri Latex Template.
+### Customized in top of Friggeri Latex Template.
 
 ## Usage
 
