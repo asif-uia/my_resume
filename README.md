@@ -1,13 +1,14 @@
-# Custom Latex template for generating CV
+# Custom-made latex template for generating your Resume
+
+## Customized in top of Friggeri Latex Template.
 
 ## Usage
 
 Run `make pdf` to create the PDF (`cv.pdf`). See `make help` for an overview of available targets.
 
-This custom template needs the following dependencies:
+This template requires the following dependencies:
 
 -   XeTex and fontspec (custom fonts)
--   biblatex/biber (for publications)
 -   TikZ (header)
 -   textpos (aside)
 
