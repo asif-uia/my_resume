@@ -6,7 +6,7 @@ cv.blg
 cv.bbl
 cv.bcf
 cv.run.xml
-cv.pdf
+# cv.pdf
 cv.xdv
 cv.fls
 cv.fdb_latexmk
